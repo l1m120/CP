@@ -6,7 +6,7 @@ import os
 import pandas as pd
 
 # Load YOLO model
-model = YOLO("best.pt")
+model = YOLO("models/best.pt")
 st.write("Model class names:", model.names)
 print(model.names)
 st.title("JKR Vehicle Detection & Counting")
