@@ -65,7 +65,7 @@ pip install -r requirements.txt
 **Key Features**:
 
 * **Classes (JKR‑standard, 6)**: Car, Van, Light Lorry, Heavy Lorry, Bus, Motorcycle
-* **Source**: Drone and roadside imagery
+* **Source**: Roadside imagery on Malaysian highway
 * **Privacy**: Non‑road regions automatically blurred
 * **Hosting**: Zenodo (external, due to large size)
 
