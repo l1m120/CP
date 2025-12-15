@@ -164,5 +164,5 @@ If you use **MY‑VID**, the training pipeline, or TrafficSense AI in your resea
 ---
 
 <p align="center">
-  <b>Developed by Lim Zi Xuan · Sunway University · 2025</b>
+  <b> &copy Developed by Lim Zi Xuan · Sunway University · 2025</b>
 </p>
