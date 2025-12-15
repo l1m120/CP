@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-**TrafficSense AI** is a complete, end‑to‑end computer vision framework designed to address the lack of localized, privacy‑compliant traffic datasets in Southeast Asia—particularly Malaysia. The project delivers:
+This project entails a complete, end‑to‑end computer vision framework designed to address the lack of localized, privacy‑compliant traffic datasets in Southeast Asia—particularly Malaysia. The project delivers:
 
 * **MY‑VID**: an open‑source Malaysian vehicle image dataset
 * **A fully reproducible training pipeline** (Jupyter Notebook)
