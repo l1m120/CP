@@ -35,7 +35,29 @@ The framework aligns with **JKR Malaysia vehicle taxonomy and data standards**, 
 
 ---
 
-## 📂 Project Structure & Research Outcomes (RO)
+## 🔓 Open Science Commitment
+
+This project is developed and released in full alignment with **Open Science principles**, ensuring transparency, reproducibility, and public accessibility of research outputs.
+
+Specifically, TrafficSense AI adheres to the following Open Science practices:
+
+- **Open Data**:  
+  The **MY-VID dataset** is publicly released on **Zenodo** with a permanent DOI under a **CC BY 4.0** license.
+
+- **Open Source Code**:  
+  All source code, training pipelines, and deployment scripts are openly available under the **MIT License**.
+
+- **Reproducible Research**:  
+  The complete end-to-end workflow—from data preprocessing to model training and deployment—is provided via executable **Jupyter notebooks**.
+
+- **Transparent Evaluation**:  
+  Model configurations, performance metrics, and inference procedures are explicitly documented.
+
+By making data, models, and code openly available, this project supports **research reuse**, **independent verification**, and **responsible AI development**, particularly for traffic and urban analytics in Southeast Asia.
+
+---
+
+## 📂 Project Structure & Outcomes
 
 This repository is organized around four core **Research Objectives (ROs)**:
 
