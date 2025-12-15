@@ -6,6 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
 ![Framework](https://img.shields.io/badge/Framework-YOLO11%20%7C%20Streamlit-red)
+![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blueviolet)
+![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16866508-blue)
+![Open Access](https://img.shields.io/badge/Open%20Access-Yes-brightgreen)
 
 ---
 
