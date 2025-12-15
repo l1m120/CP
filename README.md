@@ -9,10 +9,10 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blueviolet)
 ![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16866508-blue)
 ![Open Access](https://img.shields.io/badge/Open%20Access-Yes-brightgreen)
-![Reproducible](https://img.shields.io/badge/Reproducible-Yes-success)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Cloud-ff4b4b)
 ![GUI](https://img.shields.io/badge/GUI-Interactive-informational)
+![Reproducible](https://img.shields.io/badge/Reproducible-Yes-success)
 
 ---
 
