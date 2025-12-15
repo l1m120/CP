@@ -28,7 +28,7 @@ This repository is organized around four core **Research Objectives (ROs)**:
 
 | Research Objective | Description       | Deliverable / Location                                                                                         |
 | ------------------ | ----------------- | -------------------------------------------------------------------------------------------------------------- |
-| **RO1**            | Data Acquisition  | **MY‑VID Dataset (Zenodo)**  \                                                                                 |
+| **RO1**            | Data Acquisition  | **MY‑VID Dataset (Zenodo)** __                                                                                 |
 |                    |                   | [https://doi.org/10.5281/zenodo.16866508](https://doi.org/10.5281/zenodo.16866508) *(External – 8,832 images)* |
 | **RO2**            | Training Pipeline | `MY-VID_End_to_End_Pipeline.ipynb`                                                                             |
 | **RO3**            | Optimal Model     | `models/best.pt` *(YOLO11s fine‑tuned weights)*                                                                |
