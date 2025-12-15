@@ -2,6 +2,10 @@
 🚦 Development of a Standalone and Open-Source Vehicle Detection Framework Using YOLO for Traffic Analysis
 </h1>
 
+<p align="center">
+<b>TrafficSense AI · Privacy-Compliant · Open-Source · Malaysia</b>
+</p>
+
 > **A Privacy‑Compliant, Open‑Source Vehicle Detection Framework for Malaysian Traffic Analysis**
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
