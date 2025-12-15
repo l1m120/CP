@@ -1,4 +1,4 @@
-# 🚦 Development of a Standalone and Open-Source Vehicle Detection Framework Using YOLO for Traffic Analysis
+#🚦 Development of a Standalone and Open-Source Vehicle Detection Framework Using YOLO for Traffic Analysis
 
 > **A Privacy‑Compliant, Open‑Source Vehicle Detection Framework for Malaysian Traffic Analysis**
 
