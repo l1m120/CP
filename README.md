@@ -8,6 +8,7 @@
 
 > **A Privacy‑Compliant, Open‑Source Vehicle Detection Framework for Malaysian Traffic Analysis**
 
+<p align='center>
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
@@ -18,7 +19,7 @@
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Cloud-ff4b4b)
 ![GUI](https://img.shields.io/badge/GUI-Interactive-informational)
-
+  </p>
 ---
 
 
