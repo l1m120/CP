@@ -7,20 +7,19 @@
 </p>
 
 > **A Privacy‑Compliant, Open‑Source Vehicle Detection Framework for Malaysian Traffic Analysis**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-yellow" />
+  <img src="https://img.shields.io/badge/Framework-YOLO11%20%7C%20Streamlit-red" />
+  <img src="https://img.shields.io/badge/Dataset-Zenodo-blueviolet" />
+  <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16866508-blue" />
+  <img src="https://img.shields.io/badge/Open%20Access-Yes-brightgreen" />
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
+  <img src="https://img.shields.io/badge/Deployment-Streamlit%20Cloud-ff4b4b" />
+  <img src="https://img.shields.io/badge/GUI-Interactive-informational" />
+</p>
 
-<p align='center>
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
-![Framework](https://img.shields.io/badge/Framework-YOLO11%20%7C%20Streamlit-red)
-![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blueviolet)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16866508-blue)
-![Open Access](https://img.shields.io/badge/Open%20Access-Yes-brightgreen)
-![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![Deployment](https://img.shields.io/badge/Deployment-Streamlit%20Cloud-ff4b4b)
-![GUI](https://img.shields.io/badge/GUI-Interactive-informational)
-
-  </p>
 ---
 
 
